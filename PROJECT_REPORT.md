@@ -180,7 +180,7 @@ Prediction: Died     (Survival Probability: 12.4%)
 
 ## 8. File Structure of the Project
 
-```text
+```
 Titanic_Survival_model/
 │
 ├── titanic.py                     # Main script: cleaning, EDA, 80/20 model, evaluation, live test
